@@ -1,0 +1,11 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\bin\Debug\pract11_1.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\bin\Debug\pract11_1.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\bin\Debug\pract11_1.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Порядин\pract11_1\obj\Debug\pract11_1.pdb
